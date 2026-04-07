@@ -12,7 +12,7 @@ if problema == 1:
     # Fórmula: Area = 3.1416 * r^2
     r = 15
     # Tu código aquí
-    print(3.1416 * (r ** 2))
+    # print(3.1416 * (r ** 2))
 
 elif problema == 2:
     # Problema 2: Genera una clave de producto (concatenar) con código y lote.
