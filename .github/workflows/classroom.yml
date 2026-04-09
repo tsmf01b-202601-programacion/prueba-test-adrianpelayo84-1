@@ -108,7 +108,7 @@ jobs:
         expected-output: '250.0'
         comparison-method: contains
         timeout: 1
-        max-score: 8
+        max-score: 10
     - name: P1
       id: p1
       uses: classroom-resources/autograding-io-grader@v1
